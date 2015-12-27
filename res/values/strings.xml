@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">CallList</string>
+	<string name="label_detail">コンタクト詳細情報</string>
+	<string name="label_contactname">コンタクト名: </string>
+	<string name="label_contactnumber">コンタクト番号: </string>
+	<string name="label_contactemail">コンタクトEMail: </string>
+</resources>
